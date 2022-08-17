@@ -1,0 +1,17 @@
+SELECT setval('brand_id_seq', coalesce(max(id),0) + 1, false) FROM brand;
+SELECT setval('category_id_seq', coalesce(max(id),0) + 1, false) FROM category;
+SELECT setval('cest_id_seq', coalesce(max(id),0) + 1, false) FROM cest;
+SELECT setval('cest_ncm_id_seq', coalesce(max(id),0) + 1, false) FROM cest_ncm;
+SELECT setval('cupom_id_seq', coalesce(max(id),0) + 1, false) FROM cupom;
+SELECT setval('cupom_products_id_seq', coalesce(max(id),0) + 1, false) FROM cupom_products;
+SELECT setval('deposit_id_seq', coalesce(max(id),0) + 1, false) FROM deposit;
+SELECT setval('ncm_id_seq', coalesce(max(id),0) + 1, false) FROM ncm;
+SELECT setval('price_id_seq', coalesce(max(id),0) + 1, false) FROM price;
+SELECT setval('price_list_id_seq', coalesce(max(id),0) + 1, false) FROM price_list;
+SELECT setval('product_id_seq', coalesce(max(id),0) + 1, false) FROM product;
+SELECT setval('product_status_id_seq', coalesce(max(id),0) + 1, false) FROM product_status;
+SELECT setval('product_storage_id_seq', coalesce(max(id),0) + 1, false) FROM product_storage;
+SELECT setval('product_transfer_id_seq', coalesce(max(id),0) + 1, false) FROM product_transfer;
+SELECT setval('product_type_id_seq', coalesce(max(id),0) + 1, false) FROM product_type;
+SELECT setval('product_validate_date_id_seq', coalesce(max(id),0) + 1, false) FROM product_validate_date;
+SELECT setval('provider_id_seq', coalesce(max(id),0) + 1, false) FROM provider;

@@ -1,0 +1,272 @@
+[12-Aug-2022 11:27:44 America/Sao_Paulo] PHP Warning:  Attempt to read property "fileName" on null in /var/www/html/pos_back/app/control/sistema/importControl.php on line 278
+[12-Aug-2022 11:28:04 America/Sao_Paulo] PHP Warning:  Attempt to read property "fileName" on null in /var/www/html/pos_back/app/control/sistema/importControl.php on line 334
+[12-Aug-2022 11:29:54 America/Sao_Paulo] PHP Warning:  Attempt to read property "fileName" on null in /var/www/html/pos_back/app/control/sistema/importControl.php on line 444
+[12-Aug-2022 11:32:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "fileName" on null in /var/www/html/pos_back/app/control/sistema/importControl.php on line 516
+[12-Aug-2022 11:45:27 America/Sao_Paulo] PHP Warning:  Undefined array key "cupom" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 137
+[12-Aug-2022 13:54:19 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 13:54:19 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 13:54:19 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:02:05 America/Sao_Paulo] PHP Warning:  Undefined array key "cupom" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 137
+[12-Aug-2022 14:12:35 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 199
+[12-Aug-2022 14:21:12 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:21:12 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:21:12 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:21:26 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:21:26 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:21:26 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:22:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:22:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:22:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:26:54 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:26:54 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:26:54 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:28:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:28:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:28:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:28:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:28:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:28:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:29:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:29:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:29:43 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:33:25 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:33:25 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:33:25 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:33:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:33:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:33:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:35:05 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:35:05 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:35:05 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 140
+[12-Aug-2022 14:35:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[12-Aug-2022 14:35:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:35:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:36:02 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[12-Aug-2022 14:36:02 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:36:02 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:52:51 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[12-Aug-2022 14:52:51 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:52:51 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:53:46 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[12-Aug-2022 14:53:46 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:53:46 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:53:54 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 14:53:58 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 14:55:38 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[12-Aug-2022 14:55:38 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[12-Aug-2022 14:55:38 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[12-Aug-2022 14:55:41 America/Sao_Paulo] PHP Warning:  Undefined array key "cupom" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 137
+[12-Aug-2022 15:14:20 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:19:24 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:29:39 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:29:40 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:30:10 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:30:48 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:31:44 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:31:50 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:36:17 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:37:14 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:37:35 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:39:35 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:40:11 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 15:49:06 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:00:15 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:00:34 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:00:55 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:01:33 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:01:53 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:04:12 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:04:29 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:04:45 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:05:36 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:12:55 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:13:16 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:18:16 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:18:36 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:21:44 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:22:01 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:24:04 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:24:59 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:25:02 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:29:17 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:29:54 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:30:32 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:30:49 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:31:55 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:32:17 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:32:48 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:33:27 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:33:45 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:36:34 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:36:47 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:40:13 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:40:50 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:41:35 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:45:18 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:54:24 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:56:05 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:56:26 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:57:02 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[12-Aug-2022 16:59:41 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:07:14 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:17:47 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:18:15 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:19:15 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:19:16 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:20:24 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:26:11 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:26:11 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:26:27 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:30:24 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:30:50 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:32:10 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:40:29 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:45:06 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:45:46 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:49:31 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 09:50:03 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:18:16 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:19:58 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:21:50 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:22:45 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:22:53 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:23:57 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:24:12 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:25:04 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:25:26 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:30:21 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:30:53 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:31:33 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:40:14 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:41:20 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:41:59 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:42:30 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:43:58 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:51:32 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:52:10 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:53:37 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:54:22 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 10:59:54 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:00:02 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:00:33 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:00:42 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:01:03 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:01:19 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:01:30 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:05:32 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:06:19 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 209
+[16-Aug-2022 11:15:20 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 11:15:20 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 11:15:20 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 11:45:14 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 11:45:14 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 11:45:14 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 11:45:22 America/Sao_Paulo] PHP Warning:  Undefined variable $TTransaction in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 96
+[16-Aug-2022 11:45:46 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 250
+[16-Aug-2022 11:46:18 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 250
+[16-Aug-2022 11:47:27 America/Sao_Paulo] PHP Warning:  Undefined array key "sale" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 39
+[16-Aug-2022 11:50:54 America/Sao_Paulo] PHP Warning:  Undefined array key "sale" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 39
+[16-Aug-2022 11:51:39 America/Sao_Paulo] PHP Warning:  Undefined variable $TTransaction in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 96
+[16-Aug-2022 11:53:18 America/Sao_Paulo] PHP Warning:  Undefined variable $TTransaction in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 128
+[16-Aug-2022 13:14:35 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 250
+[16-Aug-2022 13:40:11 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 13:40:11 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 13:40:11 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 13:40:41 America/Sao_Paulo] PHP Warning:  Undefined array key "invoice" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 250
+[16-Aug-2022 13:41:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 13:41:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 13:41:52 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 13:54:13 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 13:54:13 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 13:54:13 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 13:54:26 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 357
+[16-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 14:02:38 America/Sao_Paulo] PHP Warning:  Undefined array key "sale" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 38
+[16-Aug-2022 14:05:04 America/Sao_Paulo] PHP Warning:  Undefined array key "sale" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 38
+[16-Aug-2022 14:05:13 America/Sao_Paulo] PHP Warning:  Undefined array key "sale" in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 38
+[16-Aug-2022 14:06:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 14:07:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 14:07:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 14:07:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 14:07:08 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 357
+[16-Aug-2022 14:08:13 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 14:10:18 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 357
+[16-Aug-2022 14:10:24 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 357
+[16-Aug-2022 14:18:53 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 14:18:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 357
+[16-Aug-2022 14:24:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 14:24:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 14:24:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 14:24:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 15:12:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 15:12:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 15:12:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 15:14:58 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 16:01:22 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 16:01:26 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 16:02:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 16:55:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 16:55:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 16:55:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 16:56:07 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[16-Aug-2022 17:08:22 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:08:23 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:09:14 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:09:16 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:15:46 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:15:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:15:57 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:21:38 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:21:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:21:44 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:21:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:39 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:41 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:22:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 119
+[16-Aug-2022 17:26:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[16-Aug-2022 17:26:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[16-Aug-2022 17:26:03 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[16-Aug-2022 17:26:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[17-Aug-2022 09:45:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 09:45:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 09:45:45 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 09:46:17 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[17-Aug-2022 11:08:31 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 11:08:31 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 11:08:31 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 11:08:47 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[17-Aug-2022 11:13:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 11:13:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 11:13:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 11:14:24 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/vendas/saleRest.php on line 131
+[17-Aug-2022 11:29:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 11:29:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 11:29:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 13:17:23 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 13:17:23 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 13:17:23 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 13:53:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 13:53:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 13:53:40 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 13:55:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 13:55:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 13:55:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 13:57:37 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 13:57:37 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 13:57:37 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 14:01:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
+[17-Aug-2022 14:02:53 America/Sao_Paulo] PHP Warning:  Attempt to read property "id" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 137
+[17-Aug-2022 14:02:53 America/Sao_Paulo] PHP Warning:  Attempt to read property "name" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 138
+[17-Aug-2022 14:02:53 America/Sao_Paulo] PHP Warning:  Attempt to read property "cnpj" on null in /var/www/html/pos_back/app/service/clientes/customerRest.php on line 139
